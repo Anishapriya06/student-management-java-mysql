@@ -1,2 +1,3 @@
 # STUDENT-MANAGEMENT-JAVA-MYSQL
-this is my first git repository
+This is my first git repository.
+
